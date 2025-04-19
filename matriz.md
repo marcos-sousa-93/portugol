@@ -5,4 +5,7 @@
 
   // Gravar um valor na matriz na posição 0 (primeira linha) e 1 (segunda coluna)<br>
   nome_da_variavel[0][1] = 2.5<br>
+
+  // Mostrar o valor na matriz<br>
+  escreva(nome_da_variavel[0][1]<br>
 </p>
