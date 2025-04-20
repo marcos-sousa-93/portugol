@@ -1,3 +1,4 @@
+# Escreva
 inteiro variavel = 5<br>
 
 // Escreve no console um texto qualquer<br>
