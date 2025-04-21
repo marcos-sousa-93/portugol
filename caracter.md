@@ -1,4 +1,4 @@
-# Tipos CARACTER (CHARACTERE)
+# Tipos CARACTER (CHARACTERE) ou (CHAR)
 caracter vogal, consoante
 vogal = 'a'
 // Variável declarada através de atribuição do programador
