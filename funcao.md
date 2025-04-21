@@ -1,22 +1,22 @@
 # Declaração de FUNÇÃO
-<p>
-  funcao real nome_da_funcao1(inteiro parametro1, real parametro2)<br>
-  {<br>
-    retorne parametro1 * parametro2<br>
-  }<br>
+```Portugol
+  funcao real nome_da_funcao1(inteiro parametro1, real parametro2)
+  {
+    retorne parametro1 * parametro2
+  }
 
-  funcao inteiro nome_da_funcao2( )<br>
-  {<br>
-    retorna 1<br>
-  }<br>
+  funcao inteiro nome_da_funcao2( )
+  {
+    retorna 1
+  }
 
-  funcao nome_da_funcao3(cadeia &parametro)<br>
-  {<br>
-    parametro = "Novo Valor"<br>
-  }<br>
+  funcao nome_da_funcao3(cadeia &parametro)
+  {
+    parametro = "Novo Valor"
+  }
 
-  funcao vazio imprime_linha( )<br>
-  {<br>
-    escreva("\n-------------------|n")<br>
-  }<br>
-</p>
+  funcao vazio imprime_linha( )
+  {
+    escreva("\n-------------------|n")
+  }
+```
