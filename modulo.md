@@ -1,5 +1,9 @@
 # MÓDULO
-inteiro valor<br>
-escreva(7%3, "\n")<br>
-valor = 7%3<br>
-escreva(valor)<br>
+```Portugol
+inteiro valor
+
+escreva(7 % 3, "\n")
+valor = 7 % 3
+
+escreva(valor)
+```
