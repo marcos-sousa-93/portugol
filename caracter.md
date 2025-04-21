@@ -1,9 +1,9 @@
 # Tipos CARACTER (CHARACTERE) ou (CHAR)
-caracter vogal, consoante
-vogal = 'a'
-// Variável declarada através de atribuição do programador
+caracter vogal, consoante<br>
+vogal = 'a'<br>
+// Variável declarada através de atribuição do programador<br>
 
-escreva("Digite uma consoante: ")
-leia(consoante)
-// Variável declarada através de entrada do usuário
-escreva("Vogal: ", vogal, "\n", "Consoante: ", consoante)
+escreva("Digite uma consoante: ")<br>
+leia(consoante)<br>
+// Variável declarada através de entrada do usuário<br>
+escreva("Vogal: ", vogal, "\n", "Consoante: ", consoante)<br>
