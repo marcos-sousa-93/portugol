@@ -1,5 +1,5 @@
 # Divisão
-inteiro valor
-escreva(20/10,"\n")
-valor = 20/10
-escreva(valor)
+inteiro valor<br>
+escreva(20/10,"\n")<br>
+valor = 20/10<br>
+escreva(valor)<br>
