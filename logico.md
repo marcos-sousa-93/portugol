@@ -1,10 +1,12 @@
 # Tipo LÓGICO
-logico teste<br>
-inteiro num<br>
+```Portugol
+logico teste
+inteiro num
 
-escreva("Digite um valor para ser comparado: ")<br>
-leia(num)<br>
+escreva("Digite um valor para ser comparado: ")
+leia(num)
 
-teste = (num > 0)<br>
+teste = (num > 0)
 
-escreva("O número é maior que zero? ", teste)<br>
+escreva("O número é maior que zero? ", teste)
+```
