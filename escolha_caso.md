@@ -1,4 +1,4 @@
-# Escolha Caso
+# ESCOLHA CASO
 inteiro numero = 1<br>
 escolha(numero)<br>
 {<br>
