@@ -1,8 +1,8 @@
 # Laços Enquanto
-caracter parar
+caracter parar<br>
 
-enquanto(parar != 's')
-{
-  escreva("Deseja parar o laço?(s/n)")
-  leia(parar)
-}
+enquanto(parar != 's')<br>
+{<br>
+  escreva("Deseja parar o laço?(s/n)")<br>
+  leia(parar)<br>
+}<br>
