@@ -1,4 +1,4 @@
-# Declaração de Função
+# Declaração de FUNÇÃO
 <p>
   funcao real nome_da_funcao1(inteiro parametro1, real parametro2)<br>
   {<br>
