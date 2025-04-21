@@ -1,4 +1,4 @@
-# Declaração de variáveis
+# Declaração de VARIÁVEIS
 <p><ol>
   <li>caracter (CHARACTER)</li>
   <li>inteiro (INTEGER)</li>
