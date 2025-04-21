@@ -1,4 +1,4 @@
-# Limpa
+# LIMPA
 limpa( )
 cadeia nome
 
