@@ -1,4 +1,4 @@
-# Declaração de Constante
+# Declaração de CONSATNTE
 <p>
   const inteiro NOME_DA_CONSTANTE = 3<br>
   const real NOME_DA_CONSTANTE = 45<br>
