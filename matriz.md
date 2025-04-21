@@ -1,4 +1,4 @@
-# Declaração de Matriz
+# Declaração de MATRIZ
 <p>
   // Declaração de uma matriz de números reais com 5 linhas e 3 colunas<br>
   real nome_da_variavel[5][3]<br>
