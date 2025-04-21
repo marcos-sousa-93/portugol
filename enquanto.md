@@ -1,8 +1,10 @@
 # Laços ENQUANTO
-caracter parar<br>
+```Portugol
+caracter parar
 
-enquanto(parar != 's')<br>
-{<br>
-  escreva("Deseja parar o laço?(s/n)")<br>
-  leia(parar)<br>
-}<br>
+enquanto(parar != 's')
+{
+  escreva("Deseja parar o laço?(s/n)")
+  leia(parar)
+}
+```
