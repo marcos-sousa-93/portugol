@@ -1,4 +1,4 @@
-# Declaração de Vetor
+# Declaração de VETOR
 <p>
   inteiro vetor[5]<br>
   caracter vetor2[200]<br>
