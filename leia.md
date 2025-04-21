@@ -1,4 +1,4 @@
-# Leia 
+# LEIA
 inteiro x<br>
 cadeia y<br>
 real z<br>
