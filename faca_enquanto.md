@@ -1,4 +1,4 @@
-# FAÇA ENQUANTO
+# Laço FAÇA ENQUANTO
 real aresta, area<br>
 
 faca<br>
