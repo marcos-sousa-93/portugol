@@ -1,4 +1,4 @@
-# Laços Enquanto
+# Laços ENQUANTO
 caracter parar<br>
 
 enquanto(parar != 's')<br>
