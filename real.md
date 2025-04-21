@@ -1,6 +1,8 @@
 # Tipo REAL
-real div<br>
+```Portugol
+real divisao
 
-div = 8.0 / 3.0<br>
+divisao = 8.0 / 3.0
 
-escreva(div)<br>
+escreva(divisao)
+```
