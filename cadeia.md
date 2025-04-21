@@ -1,10 +1,12 @@
 # Tipos CADEIA (STRING)
-cadeia nome1, nome2<br>
-nome1 = "Variável declarada através de atribuição"<br>
-// Variável declarada através de atribuição do programador<br>
+```Portugol
+cadeia nome1, nome2
+nome1 = "Variável declarada através de atribuição"
+// Variável declarada através de atribuição do programador
 
-escreva("Digite seu nome: ")<br>
-leia(nome2)<br>
-// Variável declarada através de entrad do usuário<br>
+escreva("Digite seu nome: ")
+leia(nome2)
+// Variável declarada através de entrada do usuário
 
-escreva("\nOlá ", nome2)<br>
+escreva("\nOlá ", nome2)
+```
