@@ -1,5 +1,5 @@
-# Multiplicação
-inteiro valor
-escreva(3*4, "\n")
-valor = 3*4
-escreva(valor)
+# MULTIPLICAÇÃO
+inteiro valor<br>
+escreva(3*4, "\n")<br>
+valor = 3*4<br>
+escreva(valor)<br>
