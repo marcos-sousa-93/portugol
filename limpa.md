@@ -1,5 +1,5 @@
 # LIMPA
-limpa( )
+```Portugol
 cadeia nome
 
 // Imprime a frase "Qual é o seu nome?"
@@ -13,3 +13,4 @@ limpa()
 
 // Escreva resposta
 escreva("Olá "+nome)
+```
