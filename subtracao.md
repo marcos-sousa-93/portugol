@@ -1,5 +1,5 @@
-# Subtração
-inteiro valor
-escreva(10-3, "\n")
-valor = 10-3
-escreva(valor)
+# SUBTRAÇÃO
+inteiro valor<br>
+escreva(10-3, "\n")<br>
+valor = 10-3<br>
+escreva(valor)<br>
